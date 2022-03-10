@@ -1,0 +1,7 @@
+# VScode
+/.vscode
+*.code-workspace
+
+# Build & tmp
+/bin
+/tmp
